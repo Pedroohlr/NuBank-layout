@@ -1,0 +1,20 @@
+{
+    "user1":{
+        "nome-usuario": "Pedro Henrique Hilário",
+        "cpf" : "44734237000",
+        "senha" : "pedro1234",
+        "foto-usuario": "https://avatars.githubusercontent.com/u/138743400?v=4",
+        "saldo": 950.00,
+        "limite-cartao": 2000,
+        "fatura-atual": 728.99
+    },
+    "user2":{
+        "nome-usuario": "Lucas Baccioti",
+        "cpf" : "71464641056",
+        "senha" : "lucas1234",
+        "foto-usuario": "https://avatars.githubusercontent.com/u/29627826?v=4",
+        "saldo": 520.50,
+        "limite-cartao": 5000,
+        "fatura-atual": 2665.23
+    }
+}
